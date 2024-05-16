@@ -3,6 +3,7 @@ channels:
   - gimli
   - defaults
 dependencies:
+  - python=3.11.8
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
   - aiohttp=3.9.5=py311h459d7ec_0
