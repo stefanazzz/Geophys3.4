@@ -1,1 +1,1 @@
-https://mybinder.org/v2/gh/stefanazzz/Gephys3.4/main
+https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main
