@@ -3,4 +3,5 @@ channels:
 - gimli
 - defaults
 dependencies:
+- opencv-python
 - pygimli>=1.1.0
