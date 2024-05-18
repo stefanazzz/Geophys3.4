@@ -3,4 +3,5 @@ channels:
 - gimli
 - defaults
 dependencies:
+- libatlas3-base
 - pygimli>=1.1.0
