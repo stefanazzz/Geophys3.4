@@ -3,4 +3,5 @@ channels:
   - gimli
   - defaults
 dependencies:
+  - libcblas=3.9.0
   - pygimli>=1.5.0
