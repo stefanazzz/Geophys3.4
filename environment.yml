@@ -1,6 +1,6 @@
 channels:
+  - gimli
   - conda-forge
   - defaults
-  - gimli
 dependencies:
   - pygimli>=1.5.0
