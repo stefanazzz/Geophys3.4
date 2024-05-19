@@ -1,7 +1,0 @@
-channels:
-- conda-forge
-- gimli
-- defaults
-dependencies:
-- openssl=3.3.0
-- pygimli>=1.1.0
