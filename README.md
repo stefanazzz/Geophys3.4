@@ -6,9 +6,10 @@ with classic notebook:
 
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main?filepath=ERT2D_dat_res_3.4.ipynb
 
-# Testbench for geophysical imaging codes to use online with *INTERACTIVE GRAPHICS*.
+## Online testbench for geophysical imaging codes
+## Includes *INTERACTIVE GRAPHICS* for picking and model design
 - Uses
-   - pygimli (https://www.pygimli.org/)
+   - **pygimli** (https://www.pygimli.org/)
    - obspy (this is useful for i/o of seismic datafiles)
    - pandas (this is useful for i/o of spreadsheet data)
    - shapely (this is useful for interactive plotting/picking) 
