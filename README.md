@@ -1,13 +1,14 @@
-jupyter lab:
+To run online with jupyter lab:
 
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main
 
-classic notebook:
+with classic notebook:
 
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main?filepath=ERT2D_dat_res_3.4.ipynb
 
-Testbench for geophysical imaging codes to use online interactively.
-Uses pygimli, obspy, pandas, shapely, etc
+# Testbench for geophysical imaging codes to use online interactively.
+- Uses
+   - pygimli, obspy, pandas, shapely, etc.
 -----------------------------------------------------------
 aims:
 - workable on jupyterlab / mybinder
