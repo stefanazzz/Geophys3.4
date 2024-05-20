@@ -38,14 +38,17 @@ https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main?filepath=ERT2D_dat_res_3.4
 -  pip install shapely
 
 ### environment.yml file for MYBINDER:
+'''
 channels:
-  \- conda-forge
-  \- gimli
-  \- defaults
+  - conda-forge
+  - gimli
+  - defaults
 dependencies:
-  \- python=3.8
-  \- pygimli>=1.1.0
-  \- obspy
-  \- ipympl
-  \- pandas
-  \- shapely
+   - python=3.8
+  - pygimli>=1.1.0
+  - obspy
+  - ipympl
+  - pandas
+  - shapely
+  '''
+  
