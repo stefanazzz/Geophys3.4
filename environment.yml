@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - pygimli>=1.5.0
+  - pygimli>=1.1.0
   - obspy
   - ipympl
   - pandas
