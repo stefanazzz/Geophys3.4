@@ -44,7 +44,7 @@ channels:
   - gimli
   - defaults
 dependencies:
-   - python=3.8
+  - python=3.8
   - pygimli>=1.1.0
   - obspy
   - ipympl
