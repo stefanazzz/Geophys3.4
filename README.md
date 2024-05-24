@@ -30,8 +30,8 @@ Stefan Nielsen, Durham University, May 2024
 - create sharable online version (and backup for Durham Geophysics class)
   
 ### steps for creation of local enviroment with conda:
--  conda create -n geo05 -c gimli -c conda-forge "pygimli>=1.5.0"
--  conda activate geo05
+-  conda create -n geo_3_4 -c gimli -c conda-forge "pygimli>=1.5.0"
+-  conda activate geo_3_4
 -  pip install jupyterlab
 -  pip install pandas
 -  pip install ipympl
