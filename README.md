@@ -44,6 +44,21 @@ channels:
   - gimli
   - defaults
 dependencies:
+  - obspy
+  - ipympl
+  - pandas
+  - shapely
+  - pip:
+    - pygimli
+</pre>
+
+### this also works, but not the preferred one as it requires downgrade to python 3.8: 
+<pre>
+channels:
+  - conda-forge
+  - gimli
+  - defaults
+dependencies:
   - python=3.8
   - pygimli>=1.1.0
   - obspy
