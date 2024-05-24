@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - gimli
+  - defaults
+dependencies:
+  - obspy
+  - ipympl
+  - pandas
+  - shapely
+  - pip:
+    -pygimli
