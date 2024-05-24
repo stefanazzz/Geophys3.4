@@ -8,6 +8,7 @@ https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main?filepath=Resistivity/2D/ER
 
 ## Online testbench for geophysical imaging codes
 ### Includes *INTERACTIVE GRAPHICS* for picking and model design
+Stefan Nielsen, Durham UNiversity, May 2024
 
 ### Uses
    - **pygimli** (https://www.pygimli.org/)
