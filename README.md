@@ -53,7 +53,7 @@ dependencies:
     - pygimli
 </pre>
 
-### this also works, but not the preferred one as it requires downgrade to python 3.8: 
+### this also works, but it's not the preferred one as it requires downgrade to python 3.8: 
 <pre>
 channels:
   - conda-forge
