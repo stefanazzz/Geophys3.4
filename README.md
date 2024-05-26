@@ -37,6 +37,7 @@ Stefan Nielsen, Durham University, May 2024
 -  pip install ipympl
 -  conda install obspy
 -  pip install shapely
+-  pip install trame ipywidgets
 
 ### environment.yml file for MYBINDER:
 <pre>
