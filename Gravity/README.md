@@ -2,9 +2,10 @@
 - Build model by either 
   - use of interactive graphic
   - or by defining arrays of (x,y) polygon vertexes
-- Main code is
+- Compute gravity anomaly using **pygimli** 
+## Main code is
   - ModeMeshGravity_2024.ipynb
-- Requires
+## Requires
 - companion file InitMdodelMechGravity_2024.ipynb
 - example files data_example2.csv, m1.tmp, m2.tmp, m3.tmp
 - modules/environment listed in root folder 
