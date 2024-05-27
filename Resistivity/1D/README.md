@@ -16,13 +16,8 @@ etc... etc...
 
 an example file of input is provided (input_example.csv).
 
-2) Log onto this server with your university credentials:
-
-https://geophys-2324.notebooks.danielmaitre.phyip3.dur.ac.uk/
-
 3) Upload files on the server:
 
- - the notebook schlum_example_2024.ipynb
  - the csv data file that you have compiled
 
 4) Run the notebook
