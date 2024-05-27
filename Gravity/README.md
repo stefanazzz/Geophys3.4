@@ -9,4 +9,6 @@
 ## Requires
 - companion file InitMdodelMechGravity_2024.ipynb
 - example files data_example2.csv, m1.tmp, m2.tmp, m3.tmp
-- modules/environment listed in root folder 
+- modules/environment listed in root folder
+## Bouguer or direct
+- Use topography to direct model data or reference horizon for Bouguer corrected data
