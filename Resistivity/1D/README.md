@@ -1,6 +1,10 @@
-How to produce a soli resistivity model:
+# 1D resistivity inversion
+- stand alone code "schlum_example.ipynb" based on pygimli 
+- general electrode geometry ABMN (P1 P2 C1 C2), only requirement is AM <-> BN symmetry
+ 
+How to produce a soil resistivity model:
 
-1) Write dfata in file
+1) Write data in file
 
 put all your data in a csv file (save from excel microsoft format csv and Unicode UTF-8.
 The format of the file shold be comma separated values with 6 columns like this:
