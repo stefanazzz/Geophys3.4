@@ -1,4 +1,2 @@
-# 2D: Invert 2D resistivity data
-- reads .dat or .res format from campus TIGRE array
-- option to add topographic elevation of electrodes
-- perform inversion using **pygimli**
+# Inversion of electrical resistivity data (ERT and VES)
+## see details in 1D and 2D folders
