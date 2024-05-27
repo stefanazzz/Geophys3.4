@@ -26,7 +26,8 @@ Use of the code:
 
 Requirements:
 ------------
-- python3 environment with **pygimli**, pandas, ipywidgets (in addition to several python installed by default, numpy, matplotlib, etc) 
+- python3 environment with **pygimli**, pandas, ipywidgets (in addition to several python installed by default, numpy, matplotlib, etc)
+- see README in root folder for complete environment instructions 
 - main code files and companion files:
     - Picking_3.4.ipynb
     - Seismic_inversion_3.4.ipynb
