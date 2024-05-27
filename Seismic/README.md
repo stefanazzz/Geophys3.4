@@ -1,9 +1,10 @@
 # I. Picking of first arrivals: 
-## *Picking_3_5.ipynb*
-# II. 2D inversion of seismic refraction data using pygimli: 
-## *Seismic_Inversion_3_5.ipynb*
+- *Picking_3_5.ipynb*
+- tested with input files from *Geode* and *Smartseis* shot gathers
 
-## tested with input files from geode or smartseis shot gathers
+# II. 2D inversion of seismic refraction data using pygimli: 
+- *Seismic_Inversion_3_5.ipynb*
+
 
 Use of the code:
 ----------------
