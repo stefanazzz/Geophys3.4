@@ -1,6 +1,6 @@
 To run online with jupyter lab:
 
-https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main
+https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main
 
 ## Online testbench for geophysical imaging codes
 ### Includes *INTERACTIVE GRAPHICS* for picking and model design
