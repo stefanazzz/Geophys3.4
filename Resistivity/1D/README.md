@@ -1,6 +1,7 @@
 # 1D resistivity inversion
 - stand alone code "schlum_example.ipynb" based on pygimli 
 - general electrode geometry ABMN (P1 P2 C1 C2), only requirement is AM <-> BN symmetry
+- Schlumberger, Wenner, any L/l 
  
 How to produce a soil resistivity model:
 
