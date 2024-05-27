@@ -2,10 +2,6 @@ To run online with jupyter lab:
 
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main
 
-with classic notebook:
-
-https://mybinder.org/v2/gh/stefanazzz/Geophys3.4/main?filepath=Resistivity/2D/ERT2D_dat_res_3.4.ipynb
-
 ## Online testbench for geophysical imaging codes
 ### Includes *INTERACTIVE GRAPHICS* for picking and model design
 Stefan Nielsen, Durham University, May 2024
