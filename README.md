@@ -1,7 +1,7 @@
 To run online with jupyter lab:<br>
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main<br>
 To open interactive notebooks directly:<br>
-https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/index.ipynb
+https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/index.ipynb<br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzzr/Geophys_3.5/master?filepath=index.ipynb)
 
 ## Online testbench for geophysical imaging codes
