@@ -2,7 +2,8 @@
 - Build model by either 
   - use of interactive graphic
   - or by defining arrays of (x,y) polygon vertexes
-- Compute gravity anomaly using **pygimli** 
+- Compute gravity anomaly using **pygimli**
+- Compare to field data
 ## Main code is
   - ModeMeshGravity_2024.ipynb
 ## Requires
