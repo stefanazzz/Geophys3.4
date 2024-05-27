@@ -1,7 +1,8 @@
 To run online with jupyter lab:<br>
-https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main<br>
+https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main
+
 To open interactive notebooks directly:<br>
-https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/index.ipynb<br>
+https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main?filepath=index.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main?filepath=index.ipynb)
 
