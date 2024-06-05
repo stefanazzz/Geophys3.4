@@ -1,3 +1,9 @@
+
+
+## Online testbench for geophysical imaging codes
+### Includes *INTERACTIVE GRAPHICS* for picking and model design
+Stefan Nielsen, Durham University, May 2024<br>
+
 To run online with jupyter lab:<br>
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main
 
@@ -5,10 +11,6 @@ To open interactive notebooks directly:<br>
 https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main?filepath=index.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzz/Geophys3.5/main?filepath=index.ipynb)
-
-## Online testbench for geophysical imaging codes
-### Includes *INTERACTIVE GRAPHICS* for picking and model design
-Stefan Nielsen, Durham University, May 2024
 
 ### Uses
    - **pygimli** (https://www.pygimli.org/)
